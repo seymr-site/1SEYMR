@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /salon-prive
+Allow: /
+Sitemap: /sitemap.xml
