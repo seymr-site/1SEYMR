@@ -1,0 +1,30 @@
+app/
+  layout.tsx
+  page.tsx
+  (legal)/
+    cgv/page.tsx
+    mentions-legales/page.tsx
+    politique-confidentialite/page.tsx
+    faq/page.tsx
+  salon-prive/
+    layout.tsx
+    page.tsx
+  api/
+    auth/login/route.ts
+    email/route.ts
+    checkout/route.ts
+    watermark/route.ts
+lib/
+  i18n/
+    nav.fr.json
+    nav.en.json
+    nav.ar.json
+    nav.zh.json
+    nav.ru.json
+middleware.ts
+next.config.mjs
+next-sitemap.config.js
+public/
+  icons/icon-512.png  (placeholder)
+  assets/placeholder.webp (placeholder)
+robots.txt
