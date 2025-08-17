@@ -1,0 +1,3 @@
+export default function SalonPriveLayout({ children }: { children: React.ReactNode }) {
+  return <section style={{padding:32}}>{children}</section>;
+}
